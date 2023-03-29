@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Music
+  - Weapons
+  - Enemy
+  - Vcam
+  - Sword
+  - Pistol
+  - Bullet
+  - SoundBank
+  - FlashLight
+  - MainLight
+  - Sleep
+  - FL_Collider
+  - Crates
+  - Projectiles
+  - Score
+  - SpawnManager
+  - ScoreManager
+  - Specials
+  - TimeWarp
+  - EnemySpawner
+  - Environment
+  - Radio
+  - SpecialCrate
+  - postProcess
+  - Skins
+  - CharacterSkins
+  - CharacterSelectorCamera
+  - RadioCanvas
+  - DashFx
+  - Nova
+  - WalkFx
+  - Interactables
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Collidables
+  - Water
+  - UI
+  - Enemy
+  - PostProcess
+  - Walkable
+  - SecretRoom
+  - Interactables
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
